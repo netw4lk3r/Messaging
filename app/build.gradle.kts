@@ -51,7 +51,7 @@ android {
     compileSdk = 37
     buildToolsVersion = "37.0.0"
 
-    namespace = "com.android.messaging"
+    namespace = "com.graphene.messaging"
 
     defaultConfig {
         versionCode = 20000000 + 18
