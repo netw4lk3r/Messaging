@@ -51,9 +51,10 @@ android {
     compileSdk = 37
     buildToolsVersion = "37.0.0"
 
-    namespace = "com.graphene.messaging"
+    namespace = "com.android.messaging"
 
     defaultConfig {
+        applicationId = "com.graphene.messaging"
         versionCode = 20000000 + 18
         versionName = "18"
         minSdk = 36
